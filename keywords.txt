@@ -1,0 +1,36 @@
+ ######################################################
+##                    DEFINES                         ##
+ ######################################################
+ 
+IN_RAW 			LITERAL1
+IN_MM 			LITERAL1
+IN_CM 			LITERAL1
+IN_DM 			LITERAL1
+IN_M 			LITERAL1
+IN_INCH 		LITERAL1
+IN_FEET 		LITERAL1
+IN_YARD 		LITERAL1
+U_SENSOR		LITERAL1
+
+ ######################################################
+##                EXPERIMENTAL CONSTS                 ##
+ ######################################################
+
+SOUND_SPEED_CM 		LITERAL1
+NO_DELAY 		LITERAL1
+DEF_DELAY 		LITERAL1
+MAX_RANGE_CM 		LITERAL1
+MIN_RANGE_CM 		LITERAL1
+
+ ######################################################
+##                FUCTION & CLASSES                   ##
+ ######################################################
+
+USensor 		KEYWORD1
+getDis 			KEYWORD2
+getDisC 		KEYWORD2
+getDisD 		KEYWORD2
+getTrigPin 		KEYWORD2
+getEchoPin 		KEYWORD2
+setPins 		KEYWORD2
+isEnable		KEYWORD2
