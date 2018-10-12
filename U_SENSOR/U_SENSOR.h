@@ -1,5 +1,5 @@
 //###################################################################################//
-//  Written by Ufuk Bombar et al., August 25, 2015                                   //
+//  Written by Ufuk Bombar, August 25, 2015                                          //
 //                                                                                   //
 //  Written for Arduino by the purpose of facilitate the use of ultrasonic           //
 //  sensor. Program version: v1.7                                                    //
